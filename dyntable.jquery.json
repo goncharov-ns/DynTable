@@ -10,7 +10,8 @@
     ],
     "version": "1.1.0",
     "author": {
-        "name": "Goncharov-ns"
+        "name": "Goncharov-ns",
+	"url" : "http://www.gns34.ru/"
     },
     "licenses": [
         {
@@ -19,6 +20,7 @@
         }
     ],
     "bugs": "https://github.com/goncharov-ns/DynTable/issues",
+    "download": "https://github.com/goncharov-ns/DynTable",
     "dependencies": {
         "jquery": ">=1.7.2"
     }
